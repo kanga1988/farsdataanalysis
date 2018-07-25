@@ -18,3 +18,4 @@ library(farsdataanalysis)
 To start, please read farsdata\_analysis\_vignette: `vignette('farsdata_analysis_vignette', package = 'farsdataanalysis')`.
 
 ### Travis Badge
+[![Build Status](https://travis-ci.org/kanga1988/farsdataanalysis.svg?branch=master)](https://travis-ci.org/kanga1988/farsdataanalysis)
