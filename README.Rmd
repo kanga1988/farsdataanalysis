@@ -12,7 +12,7 @@ Coursera course
 To install this package to run on your system, please first install and load the `devtools` package. Then you may install and load this package:
 
 ```R
-install_github('kanga1988/kangakola_coursera_R_pkg')
+install_github('kanga1988/farsdataanalysis')
 library(farsdataanalysis)
 ```
 
